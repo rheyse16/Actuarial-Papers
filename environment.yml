@@ -1,0 +1,14 @@
+name: act-pap-env
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - pymc
+  - arviz
+  - bambi
+  - numpy
+  - matplotlib
+  - seaborn
+  - preliz
+  - scipy
+  - scikit-learn
